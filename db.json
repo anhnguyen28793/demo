@@ -1,5 +1,5 @@
 {
-  "posts": {
+  "right": {
     "hits": [
         {
             "accountNo": "00010001",
@@ -54,10 +54,47 @@
     "pageSize": 0,
     "total": 0
 },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "dealBondStatement": {
+  "hits": [
+    {
+      "accountNo": "00010001",
+      "bondCode": "021C211081",
+      "bondType": "AFTYPE",
+      "buyPrice": 100000,
+      "buyQuantity": 10,
+      "buyValue": 1000000,
+      "custodyCode": "021C211081",
+      "dealId": 102,
+      "dealStatus": "TRUE",
+      "id": "103",
+      "leg2TradeDate": "2019-08-15",
+      "remainQuantity": 9,
+      "sellPrice": 100000,
+      "sellValue": 20000,
+      "tradingDate": "2019-08-15"
+    },
+    {
+      "accountNo": "00010001",
+      "bondCode": "021C211081",
+      "bondType": "AFTYPE",
+      "buyPrice": 100000,
+      "buyQuantity": 10,
+      "buyValue": 1000000,
+      "custodyCode": "021C211081",
+      "dealId": 102,
+      "dealStatus": "TRUE",
+      "id": "103",
+      "leg2TradeDate": "2019-08-15",
+      "remainQuantity": 9,
+      "sellPrice": 100000,
+      "sellValue": 20000,
+      "tradingDate": "2019-08-15"
+    }
   ],
+  "pageIndex": 0,
+  "pageSize": 0,
+  "total": 0
+},
   "profile": {
     "name": "typicode"
   }
