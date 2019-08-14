@@ -1,6 +1,60 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    {
+    "hits": [
+        {
+            "accountNo": "00010001",
+            "country": "Viet Name",
+            "custodyCode": "021C211081",
+            "customerId": "0001114304",
+            "customerType": "AFTYPE",
+            "exDividendDate": "2019-08-14",
+            "executionDate": "2019-08-14",
+            "expirationDate": "2019-08-14",
+            "id": "102",
+            "parValue": 10,
+            "recordDate": "2019-08-14",
+            "recordQuantity": 100,
+            "rightCode": "ABC211081",
+            "rightName": "USER",
+            "rightPrice": 1000000,
+            "rightQuantity": 10,
+            "rightRatio": 0.25,
+            "rightType": "TYPE",
+            "rightValue": 2,
+            "status": "SENT",
+            "symbol": "ABC",
+            "taxRate": 10
+        },
+        {
+            "accountNo": "00010001",
+            "country": "Viet Name",
+            "custodyCode": "021C211081",
+            "customerId": "0001114304",
+            "customerType": "AFTYPE",
+            "exDividendDate": "2019-08-14",
+            "executionDate": "2019-08-14",
+            "expirationDate": "2019-08-14",
+            "id": "102",
+            "parValue": 10,
+            "recordDate": "2019-08-14",
+            "recordQuantity": 100,
+            "rightCode": "ABC211081",
+            "rightName": "USER",
+            "rightPrice": 1000000,
+            "rightQuantity": 10,
+            "rightRatio": 0.25,
+            "rightType": "TYPE",
+            "rightValue": 2,
+            "status": "SENT",
+            "symbol": "ABC",
+            "taxRate": 10
+        }
+    ],
+    "pageIndex": 0,
+    "pageSize": 0,
+    "total": 0
+},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
